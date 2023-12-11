@@ -71,7 +71,7 @@ This Python script implements a Kakuro solver using the Constraint Satisfaction 
 from kakuro.board import Board
 from tests import Test
 
-board_scheme =     TEST7 = """
+board_scheme = """
 #|#     #|#     #|#     #|17    #|28    #|#     #|#
 
 #|#     #|#     16|27   0|0     0|0     #|17    #|17
