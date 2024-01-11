@@ -6,7 +6,7 @@ This Python script implements a Kakuro solver using the Constraint Satisfaction 
 
 ## Features
 
-- **CSP Approach**: Utilizes the CSP methodology to model and solve the Kakuro puzzle. CSP involves defining variables, domains, and constraints to find a consistent assignment of values.
+- **CSP Approach**: Utilizes the  CSP methodology to model and solve the Kakuro puzzle. CSP involves defining variables, domains, and constraints to find a consistent assignment of values.
 
 - **Backtracking Algorithm**: Employs the backtracking algorithm to explore the solution space efficiently. Backtracking is a systematic trial-and-error approach to finding a solution.
 
