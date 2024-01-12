@@ -35,7 +35,7 @@ This Python script implements a Kakuro solver using the Constraint Satisfaction 
 
     Example Input:
 
-    ```
+    ```python
     """#|#     #|#     #|#     #|17    #|28    #|#     #|#
 
        #|#     #|#     16|27   0|0     0|0     #|17    #|17
